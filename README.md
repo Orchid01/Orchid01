@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orchid01
-- 👀 I’m interested in NFTs
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on NFT project
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate - I am good at finance and VBA :)
 - 📫 How to reach me message in this site.
 
 <!---
